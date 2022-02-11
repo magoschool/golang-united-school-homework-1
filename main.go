@@ -2,6 +2,6 @@ package main
 
 import "github.com/kyokomi/emoji"
 
-func main() {
-	emoji.Println("Hello :world_map:!")
+func GetMessage() string {
+	return emoji.Sprint("Hello :world_map:!")
 }
