@@ -1,4 +1,4 @@
-module golang-united-school-homework-1
+module homework1
 
 go 1.17
 

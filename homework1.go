@@ -1,4 +1,4 @@
-package main
+package homework1
 
 import "github.com/kyokomi/emoji"
 
