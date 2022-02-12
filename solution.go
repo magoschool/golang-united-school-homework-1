@@ -1,7 +1,7 @@
-package homework1
+package solution
 
 import "github.com/kyokomi/emoji"
 
-func PrintMain() string {
+func GetMessage() string {
 	return emoji.Sprint("Hello :world_map:!")
 }

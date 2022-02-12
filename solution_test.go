@@ -1,4 +1,4 @@
-package homework1
+package solution
 
 import (
 	"testing"
@@ -7,7 +7,7 @@ import (
 )
 
 func TestPrintMain(t *testing.T) {
-	testValue := PrintMain()
+	testValue := GetMessage()
 	expectedValue := emoji.Sprint("Hello :world_map:!")
 
 	if testValue != expectedValue {

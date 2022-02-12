@@ -1,4 +1,4 @@
-module homework1
+module solution
 
 go 1.17
 
